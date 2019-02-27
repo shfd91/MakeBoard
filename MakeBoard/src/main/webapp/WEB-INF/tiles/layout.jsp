@@ -29,7 +29,8 @@ body{
 	
 /* 	화면 고정 */
 	width: 800px;
-	positon: fixed;
+	
+/* 	positon: fixed; */
 	
 /* 	가운데 정렬 */
 	margin: 0 auto;
